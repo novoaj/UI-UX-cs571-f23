@@ -1,6 +1,6 @@
 # Intro to UI/UX CS571
 
-This class taught web development and design through the use of Barebones JS/CSS/HTML, React, and ReactNative
+This class taught web development and design through the use of JS/CSS/HTML, React, and ReactNative
 
 course github repo: https://github.com/CS571-F23
 
